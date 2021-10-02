@@ -74,3 +74,6 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 UnstableStable/Saved/
 UnstableStable/Intermediate/
+UnstableStable 5.0/Saved/
+UnstableStable 5.0/Intermediate/Config/CoalescedSourceConfigs/UnrealInsightsSettings.ini
+UnstableStable 5.0/Intermediate/
