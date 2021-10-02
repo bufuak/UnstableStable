@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+UnstableStable/Saved/
+UnstableStable/Content/Megascans/
+UnstableStable/Intermediate/
+UnstableStable/Content/MSPresets/
