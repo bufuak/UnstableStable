@@ -73,7 +73,6 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 UnstableStable/Saved/
+UnstableStable/Content/Megascans/
 UnstableStable/Intermediate/
-UnstableStable 5.0/Saved/
-UnstableStable 5.0/Intermediate/Config/CoalescedSourceConfigs/UnrealInsightsSettings.ini
-UnstableStable 5.0/Intermediate/
+UnstableStable/Content/MSPresets/
